@@ -1,0 +1,141 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "login": {
+    "email": "ravi@gmail.com",
+    "password": "ravi"
+  },
+  "home": [
+    {
+      "id": 1,
+      "name": "Samsung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 2,
+      "name": "Samsung F13",
+      "color": "black",
+      "price": 12999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 3,
+      "name": "Supima T-Shirt Blank | Round Neck",
+      "color": "black",
+      "price": 999,
+      "category": "Fashion",
+      "brand": "Supima",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 4,
+      "name": "StrataTech Shorts",
+      "color": "purple",
+      "price": 999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 5,
+      "name": "Samsung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 6,
+      "name": "Samsung F13",
+      "color": "black",
+      "price": 12999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 7,
+      "name": "Supima T-Shirt Blank | Round Neck",
+      "color": "black",
+      "price": 999,
+      "category": "Fashion",
+      "brand": "Supima",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 8,
+      "name": "StrataTech Shorts",
+      "color": "purple",
+      "price": 999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 9,
+      "name": "Samsung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    },
+    {
+      "id": 10,
+      "name": "Samsung F13",
+      "color": "black",
+      "price": 12999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e135flbgins/gallery/in-galaxy-f13-sm-e135flbgins-532859063?$1300_1038_PNG$"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Samsung m40",
+      "color": "black",
+      "price": 15000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://pm.epages.com/WebRoot/Store/Shops/apidocu/51E7/F905/2E4C/78C2/30C2/AC14/145F/A4E5/013-headphone-red_h.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung F13",
+      "color": "black",
+      "price": 12999,
+      "category": "mobile",
+      "brand": "Samsung",
+      "photo": "https://pm.epages.com/WebRoot/Store/Shops/apidocu/51E7/F905/2E4C/78C2/30C2/AC14/145F/A4E5/013-headphone-red_h.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Supima T-Shirt Blank | Round Neck",
+      "color": "black",
+      "price": 999,
+      "category": "Fashion",
+      "brand": "Supima",
+      "photo": "https://pm.epages.com/WebRoot/Store/Shops/apidocu/51E7/F905/2E4C/78C2/30C2/AC14/145F/A4E5/013-headphone-red_h.jpg"
+    }
+  ]
+}

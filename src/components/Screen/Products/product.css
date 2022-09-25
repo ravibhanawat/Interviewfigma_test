@@ -1,0 +1,35 @@
+.cart-page-container{
+  display: flex;
+  margin-left: 23rem;
+  margin-right: 42rem;
+  padding: 13rem;
+  }
+  .cart-page-container table{
+    border-collapse: collapse;
+    flex: 65%;
+  }
+  .cart-page-container table td{
+    border: 1px solid #ccc;
+    padding: 15px;
+  }
+  
+  .price-details{
+    flex: 35%;
+    margin: 0 30px;
+  }
+  .price-details .adjust-price{
+    display: flex;
+      justify-content: space-around;
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ddd;
+  }
+  .price-details .adjust-price span{
+    font-size: 20px;
+  }
+  .title-warp{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    
+  }
